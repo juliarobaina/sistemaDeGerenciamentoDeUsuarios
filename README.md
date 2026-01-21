@@ -1,5 +1,5 @@
 # Sistema de Gerenciamento de Usuários
-<h2>Neste projeto foi utilizado o XAMPP</h2>
+<p>Neste projeto foi utilizado o XAMPP</p>
 <h2>Como executar o projeto</h2>
 <ol>
   <li>Clone o repositório na pasta htdocs</li>
